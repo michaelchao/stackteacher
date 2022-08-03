@@ -2,9 +2,9 @@
 
 Collect much interesting topic from stackoverflow, stackexchange and so on
 
-<h1 align="center">stackexchange unix</h1>
+<h2 align="right">stackexchange unix</h2>
 
-### ========== C/C++
+<h3 align="center">C/C++</h3>
 
 - [What are the main differences between Unix and Linux kernels today?](https://unix.stackexchange.com/questions/26714/what-are-the-main-differences-between-unix-and-linux-kernels-today)
 - [What are the main differences between BSD- and linux-based operating systems?](https://unix.stackexchange.com/questions/24755/what-are-the-main-differences-between-bsd-and-linux-based-operating-systems)
@@ -17,21 +17,21 @@ Collect much interesting topic from stackoverflow, stackexchange and so on
 - [How can I find out what linker flags are needed to use a given C library function?](https://unix.stackexchange.com/questions/277845/how-can-i-find-out-what-linker-flags-are-needed-to-use-a-given-c-library-functio?noredirect=1)
 - [Relationship between cc1 and gcc?](https://unix.stackexchange.com/questions/77779/relationship-between-cc1-and-gcc)
 
-<h1 align="center">stackexchange softwareengineering</h1>
+<h2 align="right">stackexchange softwareengineering</h2>
 
 - [Avoid numerous dynamic_cast_ptr in the API design of polymorphic types](https://softwareengineering.stackexchange.com/questions/386649/avoid-numerous-dynamic-cast-ptr-in-the-api-design-of-polymorphic-types)
 
-<h1 align="center">stackexchange codeview</h1>
+<h2 align="right">stackexchange codeview</h2>
 
 - [Acyclic Visitor Pattern without dynamic_cast](https://codereview.stackexchange.com/questions/169457/acyclic-visitor-pattern-without-dynamic-cast)
 
-<h1 align="center">stackoverflow</h1>
+<h2 align="right">stackoverflow</h2>
 
-### ========== Linux
+<h3 align="center">Linux</h3>
 
 - [What is the XDG_SESSION_COOKIE environment variable for?](https://stackoverflow.com/questions/632515/what-is-the-xdg-session-cookie-environment-variable-for)
 
-### ========== C/C++
+<h3 align="center">C/C++</h3>
 
 - [Usage of std::forward vs std::move](https://stackoverflow.com/questions/28828159/usage-of-stdforward-vs-stdmove)
 - [Suppress unused variable warning in C++ => Compiler bug or code bug?](https://stackoverflow.com/questions/1905228/suppress-unused-variable-warning-in-c-compiler-bug-or-code-bug)
@@ -45,12 +45,16 @@ Collect much interesting topic from stackoverflow, stackexchange and so on
 - [LD_LIBRARY_PATH vs LIBRARY_PATH](https://stackoverflow.com/questions/4250624/ld-library-path-vs-library-path)
 - [How to install GCC piece by piece with GMP, MPFR, MPC, ELF, without shared libraries?](https://stackoverflow.com/questions/9450394/how-to-install-gcc-piece-by-piece-with-gmp-mpfr-mpc-elf-without-shared-libra)
 - [What is the 'soname' option for building shared libraries for?](https://stackoverflow.com/questions/12637841/what-is-the-soname-option-for-building-shared-libraries-for?noredirect=1)
+- [trait to drop const from a member function type?](https://stackoverflow.com/questions/25654186/trait-to-drop-const-from-a-member-function-type/25654229#25654229)
+- [What are the 6 dots in template parameter packs? [duplicate]](https://stackoverflow.com/questions/27594731/what-are-the-6-dots-in-template-parameter-packs)
+- [C++11 rvalues and move semantics confusion (return statement)](https://stackoverflow.com/questions/4986673/c11-rvalues-and-move-semantics-confusion-return-statement)
+- [template parameter for const iterator instead of iterator](https://stackoverflow.com/questions/32544354/template-parameter-for-const-iterator-instead-of-iterator)
 
-### ========== ZeroMQ
+<h3 align="center">ZeroMQ</h3>
 
 - [Why is the ZMQ_RCVHWM option of ZeroMQ ineffective?](https://stackoverflow.com/questions/36491006/why-is-the-zmq-rcvhwm-option-of-zeromq-ineffective)
 
-### ========== Python
+<h3 align="center">Python</h3>
 
 - [pybind11::object in pybind11::dict](https://stackoverflow.com/questions/53830479/pybind11object-in-pybind11dict)
 - [Boost Python own module throws Segmentation Fault `GlobalError::PushToStack()`](https://stackoverflow.com/questions/57064962/boost-python-own-module-throws-segmentation-fault-globalerrorpushtostack)
@@ -66,15 +70,15 @@ Collect much interesting topic from stackoverflow, stackexchange and so on
 - [How can you bind exceptions with custom fields and constructors in pybind11 and still have them function as python exception?](https://stackoverflow.com/questions/62087383/how-can-you-bind-exceptions-with-custom-fields-and-constructors-in-pybind11-and)
 - [Debugging Python Fatal Error: GC Object already Tracked](https://stackoverflow.com/questions/23178606/debugging-python-fatal-error-gc-object-already-tracked)
 
-### ========== CMake
+<h3 align="center">CMake</h3>
 
 - [Why is the cache sometimes reset?](https://stackoverflow.com/questions/49183860/why-is-the-cache-sometimes-reset)
 - [Export all symbols when creating a DLL](https://stackoverflow.com/questions/225432/export-all-symbols-when-creating-a-dll/731767)
 
-### ========== Markdown
+<h3 align="center">Markdown</h3>
 
 - [Comments in Markdown](https://stackoverflow.com/questions/4823468/comments-in-markdown)
 
-### ========== Vim
+<h3 align="center">Vim</h3>
 
 - [Vim Error: E474: Invalid argument: listchars=tab:»·,trail:·](https://stackoverflow.com/questions/18321538/vim-error-e474-invalid-argument-listchars-tab-trail)
