@@ -24,6 +24,7 @@ Collect much interesting topic from stackoverflow, stackexchange and so on
 <h2 align="right">stackexchange codeview</h2>
 
 - [Acyclic Visitor Pattern without dynamic_cast](https://codereview.stackexchange.com/questions/169457/acyclic-visitor-pattern-without-dynamic-cast)
+- [STL queue implementation](https://codereview.stackexchange.com/questions/60716/stl-queue-implementation)
 
 <h2 align="right">stackoverflow</h2>
 
