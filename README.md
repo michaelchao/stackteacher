@@ -31,6 +31,10 @@ Collect much interesting topic from stackoverflow, stackexchange and so on
 <h3 align="center">Linux</h3>
 
 - [What is the XDG_SESSION_COOKIE environment variable for?](https://stackoverflow.com/questions/632515/what-is-the-xdg-session-cookie-environment-variable-for)
+- [What does `POLLOUT` event in `poll` Linux function mean?](https://stackoverflow.com/questions/30171464/what-does-pollout-event-in-poll-linux-function-mean)
+- [UDP poll() .. issues with POLLOUT](https://stackoverflow.com/questions/43847003/udp-poll-issues-with-pollout)
+- [What to use the "fd_set *writefds" parameter in the select() statement for](https://stackoverflow.com/questions/7076320/what-to-use-the-fd-set-writefds-parameter-in-the-select-statement-for)
+- [When to use the POLLOUT event of the poll C function?](https://stackoverflow.com/questions/12170037/when-to-use-the-pollout-event-of-the-poll-c-function)
 
 <h3 align="center">C/C++</h3>
 
@@ -38,7 +42,7 @@ Collect much interesting topic from stackoverflow, stackexchange and so on
 - [Suppress unused variable warning in C++ => Compiler bug or code bug?](https://stackoverflow.com/questions/1905228/suppress-unused-variable-warning-in-c-compiler-bug-or-code-bug)
 - [Suppress warning: unused variable](https://stackoverflow.com/questions/42781986/suppress-warning-unused-variable)
 - [C++ Clang emit warning about unused template variable](https://stackoverflow.com/questions/66986718/c-clang-emit-warning-about-unused-template-variable)
-- [<cstdint> vs <stdint.h>](https://stackoverflow.com/questions/13642827/cstdint-vs-stdint-h)
+- [\<cstdint\> vs \<stdint.h\>](https://stackoverflow.com/questions/13642827/cstdint-vs-stdint-h)
 - [Proper use/includes for uint64_t in C++ [duplicate]](https://stackoverflow.com/questions/44667971/proper-use-includes-for-uint64-t-in-c?noredirect=1)
 - [When using C headers in C++, should we use functions from std:: or the global namespace?](https://stackoverflow.com/questions/32606023/when-using-c-headers-in-c-should-we-use-functions-from-std-or-the-global-na)
 - [Why does loading the libc shared library have "'LibraryLoader' object is not callable" error?](https://stackoverflow.com/questions/50798907/why-does-loading-the-libc-shared-library-have-libraryloader-object-is-not-cal)
@@ -50,6 +54,11 @@ Collect much interesting topic from stackoverflow, stackexchange and so on
 - [What are the 6 dots in template parameter packs? [duplicate]](https://stackoverflow.com/questions/27594731/what-are-the-6-dots-in-template-parameter-packs)
 - [C++11 rvalues and move semantics confusion (return statement)](https://stackoverflow.com/questions/4986673/c11-rvalues-and-move-semantics-confusion-return-statement)
 - [template parameter for const iterator instead of iterator](https://stackoverflow.com/questions/32544354/template-parameter-for-const-iterator-instead-of-iterator)
+- [C++, can I statically initialize a std::map at compile time?](https://stackoverflow.com/questions/2172053/c-can-i-statically-initialize-a-stdmap-at-compile-time)
+- [std::bind with a movable paramter](https://stackoverflow.com/questions/60927884/stdbind-with-a-movable-paramter)
+- [A problem that using std::bind to bind a function](https://stackoverflow.com/questions/61419938/a-problem-that-using-stdbind-to-bind-a-function)
+- [When and how to use GCC's stack protection feature?](https://stackoverflow.com/questions/1629685/when-and-how-to-use-gccs-stack-protection-feature#)
+
 
 <h3 align="center">ZeroMQ</h3>
 

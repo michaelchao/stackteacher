@@ -21,6 +21,7 @@
 - [caiorss](https://caiorss.github.io/)
 - [spricoder](https://spricoder.github.io/)
 - [shenxianpeng](https://shenxianpeng.github.io/)
+- [University of Toronto Coders](https://uoftcoders.github.io/studyGroup/)
 
 <h2 align="right">知乎</h2>
 
@@ -41,3 +42,17 @@
 - [stroustrup](https://www.stroustrup.com/)
 - [元润子](https://bbs.huaweicloud.com/community/usersnew/id_1548904356313349)
 - [保罗的酒吧](https://paul.pub/)
+- [TimothyQiu's Blog](https://timothyqiu.com/)
+- [零壹軒·笔记](https://note.qidong.name/)
+
+<h2 align="right">开源组织和网站</h2>
+
+- [Compiling, Linking and Building C/C++ Applications](https://www3.ntu.edu.sg/home/ehchua/programming/cpp/gcc_make.html)
+- [AGL](https://docs.automotivelinux.org/en/master/)
+- [COVESA](https://wiki.covesa.global/)
+- [Yocto](https://docs.yoctoproject.org/overview-manual/index.html)
+- [TechAdmin](https://tecadmin.net/tutorial/)
+- [ip rule](http://linux-ip.net/html/tools-ip-rule.html)
+- [linux详解sudoers](http://www.mamicode.com/info-detail-2376629.html)
+- [How to generate assembly code using gcc](https://codeyarns.com/tech/2019-12-30-how-to-generate-assembly-code-using-gcc.html)
+- [C++包管理器——conan](http://blog.guorongfei.com/2018/04/23/conan-tutorial/)
