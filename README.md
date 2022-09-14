@@ -16,6 +16,7 @@ Collect much interesting topic from stackoverflow, stackexchange and so on
 - [LD_PRELOAD and the dynamic linker](https://unix.stackexchange.com/questions/618754/ld-preload-and-the-dynamic-linker)
 - [How can I find out what linker flags are needed to use a given C library function?](https://unix.stackexchange.com/questions/277845/how-can-i-find-out-what-linker-flags-are-needed-to-use-a-given-c-library-functio?noredirect=1)
 - [Relationship between cc1 and gcc?](https://unix.stackexchange.com/questions/77779/relationship-between-cc1-and-gcc)
+- [why-and-how-are-some-shared-libraries-runnable-as-though-they-are-executables](https://unix.stackexchange.com/questions/223385/why-and-how-are-some-shared-libraries-runnable-as-though-they-are-executables)
 
 <h2 align="right">stackexchange softwareengineering</h2>
 
@@ -58,7 +59,9 @@ Collect much interesting topic from stackoverflow, stackexchange and so on
 - [std::bind with a movable paramter](https://stackoverflow.com/questions/60927884/stdbind-with-a-movable-paramter)
 - [A problem that using std::bind to bind a function](https://stackoverflow.com/questions/61419938/a-problem-that-using-stdbind-to-bind-a-function)
 - [When and how to use GCC's stack protection feature?](https://stackoverflow.com/questions/1629685/when-and-how-to-use-gccs-stack-protection-feature#)
-
+- [what-is-the-soname-option-for-building-shared-libraries-for](https://stackoverflow.com/questions/12637841/what-is-the-soname-option-for-building-shared-libraries-for?noredirect=1)
+- [ld-library-path-vs-library-path](https://stackoverflow.com/questions/4250624/ld-library-path-vs-library-path)
+- [Is there a null std::ostream implementation in C++ or libraries?](https://stackoverflow.com/questions/8243743/is-there-a-null-stdostream-implementation-in-c-or-libraries)
 
 <h3 align="center">ZeroMQ</h3>
 
@@ -93,3 +96,8 @@ Collect much interesting topic from stackoverflow, stackexchange and so on
 
 - [Vim Error: E474: Invalid argument: listchars=tab:»·,trail:·](https://stackoverflow.com/questions/18321538/vim-error-e474-invalid-argument-listchars-tab-trail)
 
+<h2 align="right">semanticscholar</h2>
+
+<h3 align="center">Autosar</h3>
+
+- [autosar](https://www.semanticscholar.org/search?q=autosar&sort=relevance)
