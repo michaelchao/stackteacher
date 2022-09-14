@@ -12,3 +12,4 @@
 - [AGL](https://docs.automotivelinux.org/en/master/)
 - [COVESA](https://wiki.covesa.global/)
 - [Yocto](https://docs.yoctoproject.org/overview-manual/index.html)
+- [autosar](https://www.semanticscholar.org/search?q=autosar&sort=relevance)
